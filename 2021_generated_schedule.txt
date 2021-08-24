@@ -1,0 +1,91 @@
+Week 1
+Dan @ Shelby
+Geiss @ Hahne
+Tom @ Aaron
+Rob @ Matthew
+Colin @ Josh
+
+Week 2
+Dan @ Tom
+Geiss @ Colin
+Hahne @ Aaron
+Rob @ Josh
+Shelby @ Matthew
+
+Week 3
+Dan @ Aaron
+Geiss @ Tom
+Hahne @ Josh
+Rob @ Shelby
+Colin @ Matthew
+
+Week 4
+Dan @ Hahne
+Geiss @ Aaron
+Tom @ Matthew
+Rob @ Colin
+Shelby @ Josh
+
+Week 5
+Dan @ Geiss
+Hahne @ Tom
+Aaron @ Rob
+Shelby @ Colin
+Josh @ Matthew
+
+Week 6
+Dan @ Colin
+Geiss @ Josh
+Hahne @ Matthew
+Tom @ Rob
+Aaron @ Shelby
+
+Week 7
+Dan @ Rob
+Geiss @ Shelby
+Hahne @ Colin
+Tom @ Josh
+Aaron @ Matthew
+
+Week 8
+Dan @ Josh
+Geiss @ Matthew
+Hahne @ Rob
+Tom @ Shelby
+Aaron @ Colin
+
+Week 9
+Dan @ Aaron
+Geiss @ Rob
+Hahne @ Tom
+Shelby @ Colin
+Josh @ Matthew
+
+Week 10
+Dan @ Tom
+Geiss @ Aaron
+Hahne @ Shelby
+Rob @ Josh
+Colin @ Matthew
+
+Week 11
+Dan @ Geiss
+Hahne @ Aaron
+Tom @ Colin
+Rob @ Matthew
+Shelby @ Josh
+
+Week 12
+Dan @ Hahne
+Geiss @ Tom
+Aaron @ Josh
+Rob @ Colin
+Shelby @ Matthew
+
+Week 13
+Dan @ Matthew
+Geiss @ Hahne
+Tom @ Aaron
+Rob @ Shelby
+Colin @ Josh
+

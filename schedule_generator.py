@@ -2,7 +2,8 @@
 # file.open/write/close writes to the file name in the same directory this .py file is.
 # The file doesn't need to be created first before running
 
-#Determine division/order. Input year as first parameter, all division A members first, then all division b members second
+# Determine division/order. Input year as first parameter, all division A members first, then all division b members second
+# Running the schedule_generator will create a text file with weekly matchups
 
 #10 teams, 2x division, 1x opposite division
 def schedule_generator(year, a1, a2, a3, a4, a5, b1, b2, b3, b4, b5):

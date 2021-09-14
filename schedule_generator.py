@@ -89,3 +89,4 @@ def schedule_generator(year, a1, a2, a3, a4, a5, b1, b2, b3, b4, b5):
           + f'{b3} @ {b4}' + '\n\n')
     file.close()
 
+schedule_generator(2022, 'dan','geiss','hahne','tom','aaron','rob','shelby','colin','josh','matthew')
